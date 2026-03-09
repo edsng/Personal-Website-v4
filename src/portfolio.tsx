@@ -56,10 +56,10 @@ const experiences: Experience[] = [
     year: "2025",
     location: "Ontario, CA",
     description:
-      "Lead nightly revenue recovery operations for a 22-person team, coordinating cross-functional teams and automating KPI reporting with Excel VBA. Supported $130K–$180K in average weekly recovered revenue.",
+      "Lead nightly revenue recovery operations for a 24-person team, coordinating cross-functional teams and automating KPI reporting with Excel VBA. Supported $130K–$180K in average weekly recovered revenue.",
   },
   {
-    role: "Full-Stack Front End Engineer",
+    role: "Full-Stack Engineer",
     company: "Driver's Club",
     year: "2024",
     location: "Los Angeles, CA",
@@ -67,7 +67,7 @@ const experiences: Experience[] = [
       "Designed and developed high-fidelity mockups and interactive prototypes using React and Tailwind CSS. Produced over 20 UI/UX designs in Figma and Adobe XD.",
   },
   {
-    role: "Front-End Engineering Intern",
+    role: "Front-End Software Engineer Intern",
     company: "Rapid Networks",
     year: "2024",
     location: "Los Angeles, CA",
